@@ -1,13 +1,9 @@
 # Hi there, I'm Katarzyna Dudziak! 
 
-## Enthusiastic self-taught developer, eager to enhance tech skills and learn from more experienced developers.
-Until now I have worked on the Django projects, contributed to the Android app (using Java),
-and created the desktop app where I used the speech-recognition feature.
-In the meantime, I became familiar with the UnitTests, the Robot framework, the Selenium library, git workflow, and Linux.
-Currently, I am diving deep into the Docker environment.
+#### Enthusiastic self-taught developer, eager to enhance tech skills and learn from more experienced developers. Until now I have worked on the Django projects, contributed to the Android app (using Java), and created the desktop app where I used the speech-recognition feature. In the meantime, I became familiar with the UnitTests, the Robot framework, the Selenium library, git workflow, and Linux. Currently, I am diving deep into the Docker environment.
 
 
-📫 How to reach me: katarzynadudziak94@gmail.com
+📫 <b> How to reach me: katarzynadudziak94@gmail.com </b>
 
 
 <p>
