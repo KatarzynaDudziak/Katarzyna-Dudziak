@@ -3,7 +3,7 @@
 Enthusiastic self-taught developer, eager to enhance tech skills and learn from more experienced developers.
 Until now I have worked on the Django projects, contributed to the Android app (using Java),
 and created the desktop app where I used the speech-recognition feature.
-In the meantime, I became familiar with the UnitTests, the Robot framework, and the Selenium library, and configured git actions for one of my projects.
+In the meantime, I became familiar with the UnitTests, the Robot framework, the Selenium library, git workflow, and Linux.
 Currently, I am diving deep into the Docker environment.
 
 
